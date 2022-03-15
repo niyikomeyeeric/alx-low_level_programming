@@ -1,6 +1,4 @@
-#include <stdio.h>
 #include "main.h"
-
 /**
  * main -  prints _purtchar, followed by a new line
  * Return: Always 0 (Success)
