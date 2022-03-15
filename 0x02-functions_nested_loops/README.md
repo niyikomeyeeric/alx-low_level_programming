@@ -1,1 +1,1 @@
-This file contains the description of every file in thos directory.
+# alx-low_level_programming
